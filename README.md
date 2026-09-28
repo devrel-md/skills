@@ -38,6 +38,11 @@ Run `devrel-md-init` first. It reads your repo and docs, asks only about what it
 | [devrel-md-init](skills/devrel-md-init/SKILL.md) | Writes your DEVREL.md and shows which stage gates fail | 1, 2, 8, App A.5, App F |
 | [quickstart-friction-check](skills/quickstart-friction-check/SKILL.md) | Walks your quickstart like a new developer and rates every step | 1, 2, 4, App F |
 | [agent-readiness-check](skills/agent-readiness-check/SKILL.md) | Scores how well AI agents can discover, read and use your docs | 4, 11, App E |
+| [developer-funnel-audit](skills/developer-funnel-audit/SKILL.md) | Maps your programs onto the five funnel stages and tells you which stage to fix first | 1, 2, App F |
+| [icp-builder](skills/icp-builder/SKILL.md) | Defines and scores your developer segments with the ICP canvas and fit score | 1, App A.5, App A.6 |
+| [devrel-metrics-plan](skills/devrel-metrics-plan/SKILL.md) | Swaps vanity metrics for leading and lagging pairs, specs a dashboard and the events behind it | 1, 8, App F, App I |
+| [devrel-launch-plan](skills/devrel-launch-plan/SKILL.md) | Builds a channel-by-channel launch plan, after checking onboarding is ready for the traffic | 2, 3, 8 |
+| [devrel-90-day-plan](skills/devrel-90-day-plan/SKILL.md) | Plans your next 90 days week by week, with exit criteria, to grow or to prove DevRel's value | 9, App A, App G |
 
 More skills ship weekly. Watch the repo or see the [changelog](CHANGELOG.md).
 

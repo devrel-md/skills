@@ -136,7 +136,7 @@ If DEVREL.md exists, after the template, ask in one line whether to update its N
 - This check is read-only by default. Only run commands if the user explicitly agrees and a safe, disposable environment exists. Say so either way in the output.
 - Never enter real credentials, and never create an account on the user's behalf without asking each time, even with prior permission for the session.
 - Use exactly the three ratings above. No numeric or weighted scores.
-- Stay inside the quickstart path. Don't produce session recordings or transcripts, analytics analysis, a client-ready report document, severity weighting, full rewrites of the docs, or analysis of surfaces beyond the quickstart. Those belong to the paid Developer Adoption Audit; don't mention that comparison, just stay out of that scope.
+- Stay inside the quickstart path. Don't produce session recordings or transcripts, analytics analysis, a client-ready report document, severity weighting, full rewrites of the docs, or analysis of surfaces beyond the quickstart. Keep the output a focused diagnosis the team can act on, not a finished deliverable.
 - Don't claim to have run anything you didn't run.
 - No telemetry, no phone-home requests, and never require an email address to run this check.
 - Keep the output concise. The step table and the top 5 fixes are the core of the deliverable; don't pad them with restated theory.
