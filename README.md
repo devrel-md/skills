@@ -56,6 +56,6 @@ They don't send data anywhere, don't need an account or an email, and never log 
 
 ## Credits and help
 
-Frameworks from [*How to Build Developer Ecosystems*](https://devrelbridge.com/book) by Amir Shevat and Marcos Placona. Maintained by Marcos Placona at [DevRel Bridge](https://devrelbridge.com). If you want a team to find and fix where your developer journey breaks, that's what we do.
+Frameworks from [*How to Build Developer Ecosystems*](https://devrel.md/go/book?m=github&c=skills-readme) by Amir Shevat and Marcos Placona. Maintained by Marcos Placona at [DevRel Bridge](https://devrelbridge.com). If you want a team to find and fix where your developer journey breaks, that's what we do.
 
 Contributions welcome: every new skill must be based on a named chapter of the book. MIT licensed.

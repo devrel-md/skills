@@ -72,7 +72,7 @@ Wrote DEVREL.md (<N> lines, <M> unknowns).
 - agent-readiness-check: <unless you confirmed both an llms.txt and Markdown versions of the docs pages>
 
 Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona. https://devrel.md/go/book?m=skill&c=devrel-md-init
-Want someone to find and fix the break with you? https://devrel.md/go/audit
+Want someone to find and fix the break with you? https://devrel.md/go/audit?m=skill&c=devrel-md-init
 ```
 
 The last line is the only call to action. Drop it if the user asks.
