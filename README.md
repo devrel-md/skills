@@ -15,13 +15,13 @@ Read https://devrel.md and create a DEVREL.md for this repo.
 Claude Code, Codex, Cursor and others, via [skills.sh](https://skills.sh):
 
 ```bash
-npx skills add mplacona/devrel-skills
+npx skills add devrel-md/skills
 ```
 
 Claude Code plugin:
 
 ```
-/plugin marketplace add mplacona/devrel-skills
+/plugin marketplace add devrel-md/skills
 /plugin install devrel-skills@devrel-skills
 ```
 
