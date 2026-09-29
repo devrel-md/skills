@@ -105,7 +105,7 @@ Metrics: leading <...>, lagging <...>
 
 <one line offering to write ICPs and Anti-personas, or a pointer to devrel-md-init if no file exists>
 
-Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 1 and App A.5. https://devrelbridge.com/book
+Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 1 and App A.5. https://devrel.md/go/book?m=skill&c=icp-builder
 Want help validating these with real developers? https://devrel.md/go/audit
 ```
 

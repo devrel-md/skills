@@ -103,7 +103,7 @@ Applicable points: <n>/100 (<list any not-applicable checks, or "all checks appl
 - <check name>: <reason> (omit this whole section if every check produced a result)
 
 ---
-Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 11. https://devrelbridge.com/book
+Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 11. https://devrel.md/go/book?m=skill&c=agent-readiness-check
 Want a human to review the parts a checklist can't? https://devrel.md/go/audit
 ```
 

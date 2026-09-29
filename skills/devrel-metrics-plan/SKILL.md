@@ -130,7 +130,7 @@ Naming convention: `noun_verb` (for example, `quickstart_completed`). Required f
 A stage counts as improving only once both its leading and its lagging metric trend up across at least two consecutive <cadence> reviews.
 
 ---
-Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 8 and App I. https://devrelbridge.com/book
+Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 8 and App I. https://devrel.md/go/book?m=skill&c=devrel-metrics-plan
 Want help building the business case from these numbers? https://devrel.md/go/audit
 ```
 

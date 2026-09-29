@@ -105,7 +105,7 @@ UTM discipline: [one line]. Community rule: give far more value than you take, p
 
 Review leading and lagging pairs at T+2 and T+4. Advance spend on a channel only once both metrics trend up across two consecutive reviews.
 
-Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 3. https://devrelbridge.com/book
+Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 3. https://devrel.md/go/book?m=skill&c=devrel-launch-plan
 Launching in the next few weeks and want it run with you? https://devrel.md/go/launch
 ```
 

@@ -89,7 +89,7 @@ Sequencing: fixing <stage> first (<why>), then <next stage>
 <brief ready/not-ready read, from references/playbook-blocks.md>
 
 ---
-Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 9 and App G. https://devrelbridge.com/book
+Framework: How to Build Developer Ecosystems by Amir Shevat and Marcos Placona, Ch 9 and App G. https://devrel.md/go/book?m=skill&c=devrel-90-day-plan
 Want help finding what to fix first, then running it with you? https://devrel.md/go/audit
 ```
 
