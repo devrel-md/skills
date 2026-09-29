@@ -1,3 +1,10 @@
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/devrel-md-mark-light.svg">
+    <img src="assets/devrel-md-mark-dark.svg" alt="DEVREL.md" width="64" height="64">
+  </picture>
+</p>
+
 # devrel-skills
 
 Developer relations skills for AI agents, built from the book *How to Build Developer Ecosystems* by Amir Shevat and Marcos Placona. They audit quickstarts, check whether agents can use your docs, and write down your developer funnel, so your agent starts from how DevRel actually works rather than guessing.
